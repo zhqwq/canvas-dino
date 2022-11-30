@@ -4,11 +4,15 @@ A Canvas implementation for dino game.
 
 <div align="center">
     <br>
-    <a href="https://kaiwei.github.io/dino-canvas" target="_blank"><img width="636" src="assets/preview.png" alt="chrome-dino"></a>
+    <a href="https://zhqwq..github.io/dino-canvas" target="_blank"><img width="636" src="assets/preview.png" alt="chrome-dino"></a>
     <br>
     <br>
 </div>
 
-## How to run locally
+## How to dev
+```
+npm run start
+```
 
-Open index.html directlly 
+## Preview
+https://zhqwq.github.io/dino-canvas

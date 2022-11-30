@@ -34,8 +34,8 @@ let gameOverPanel
 
 // images and sounds
 let isHDPI = true
-let images = {}
-let sounds = {}
+window.images = {}
+window.sounds = {}
 
 // get canvas element
 window.canvas = document.getElementById("game")
@@ -183,7 +183,7 @@ function update() {
 
     horizon.draw()
 
-    score += 0.01
+    score += 1
     scoreText.text = "Score: " + score
     scoreText.draw()
 
