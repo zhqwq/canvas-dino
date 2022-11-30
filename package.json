@@ -1,0 +1,19 @@
+{
+  "name": "dino-canvas",
+  "version": "1.0.0",
+  "description": "A easy implementation of chrome dino game in HTML canvas",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "http-server -p 3000"
+  },  
+  "keywords": [
+    "dino",
+    "game",
+    "canvas"
+  ],
+  "author": "kaiwe1",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
